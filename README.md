@@ -7,16 +7,20 @@
 
 ---
 
-### :memo: About Me :
-- :man_technologist: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me :
+- :desktop_computer: MS in Computer Science student from Oregon State University. 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :man_technologist: 3+ years of experience as a Full Stack Developer.
 
-- :seedling: Exploring Technical Content Writing.
+- :telescope: Currently researching on ways to recover Waste Heat.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and paint.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yatin-kumar1/)
+- :mailbox: How to reach me:
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70"/>
+  </a>
+
 
 ---
 
