@@ -8,16 +8,20 @@
 ---
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> About Me :
-- :desktop_computer: MS in Computer Science student from Oregon State University. 
+- 💻 MS in Computer Science student at Oregon State University. 
 
-- :man_technologist: 3+ years of experience as a Full Stack Developer.
+- 👨‍💻 Full Stack Developer with 4 years of experience – I’ve seen it all, from front-end frenzies to back-end black holes.
 
-- :telescope: Currently researching on ways to recover Waste Heat.
+- 🛠️ Expert in React, .NET, MS SQL, and AWS – basically, if it’s tech, I’ve probably tinkered with it.
 
-- :zap: In my free time, I solve problems on Leetcode and paint.
+- 📚 Currently moonlighting as a Graduate Teaching Assistant, helping students decode the mysteries of software engineering and the industry’s sacred scrolls.
+
+- 🔍 Once tried to save the world (or at least some electricity bills) during my work as a Graduate Research Asssistant by turning waste heat into electricity. Yeah, I dabble in energy alchemy.
+
+- ⚡ When I'm not coding, you can find me cracking LeetCode problems or turning blank canvases into abstract masterpieces.
 
 - :mailbox: How to reach me:
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/yk5284">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70"/>
   </a>
 
