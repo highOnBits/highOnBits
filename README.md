@@ -21,7 +21,7 @@
 - ⚡ When I'm not coding, you can find me cracking LeetCode problems or turning blank canvases into abstract masterpieces.
 
 - :mailbox: How to reach me:
-  <a href="www.linkedin.com/in/yk5284">
+  <a href="https://www.linkedin.com/in/yk5284">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70"/>
   </a>
 
